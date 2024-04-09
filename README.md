@@ -60,7 +60,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 **Contact:**
 
-For any inquiries or further assistance, please contact [maintainer@email.com](mailto:maintainer@email.com).
+For any inquiries or further assistance, please contact [maintainer@email.com](mailto:ashishcse.g@gmail.com).
 
 ---
 
